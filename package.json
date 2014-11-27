@@ -1,0 +1,10 @@
+{
+    "name": "rapiro-pi-server",
+    "version": "0.0.1",
+    "description": "RAPIRO Control Server",
+    "author": "Tetsuya SAITO <saito.tetsuya@gmail.com>",
+    "dependencies": {
+        "serialport": "1.4.6",
+    }, 
+    "engines": { "node": "0.10.28" },
+}
